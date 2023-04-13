@@ -2,6 +2,8 @@
 
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
+  - [Vulnerability Management Lab](https://github.com/irynak19/VulnerabilityManagementLab)
+  - [Steganography Practice](https://github.com/irynak19/steg_assignment) 
   - [Active Directory Home Lab](https://github.com/irynak19/LABURL)
  
 <h2>Certifications</h2>
