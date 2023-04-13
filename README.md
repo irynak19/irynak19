@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Iryna! </h1>
+
+<h2>👩‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/irynak19/LABURL)
+ 
+<h2>Certifications</h2>
+
+- <b>Technical Support Fundamentals </b>
+  - [Google Technical Support Certificate](https://www.coursera.org/account/accomplishments/verify/CE3YZ5NELRSA)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="IrynaK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/irynakurta/
 
 <!--
-**irynak19/irynak19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
